@@ -1,1 +1,1 @@
-# Grafik_V1
+# Tölvugrafík, verkefni 1
